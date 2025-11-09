@@ -1,0 +1,16 @@
+{
+  "name": "moviedom",
+  "version": "1.0.0",
+  "description": "Movie DOM manipulation project",
+  "main": "script.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": ["dom", "manipulation", "typescript", "movie"],
+  "author": "",
+  "license": "ISC"
+}
